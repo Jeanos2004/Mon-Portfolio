@@ -15,8 +15,7 @@ Ce projet est un site web personnel créé pour présenter mon portfolio. Il con
 
 ## Lien vers le site
 
-[Mon Portfolio](https://ton-nom.github.io/ton-projet)
+Pour Visitez le Site :(https://github.com/Jeanos2004/Mon-Portfolio.git)
 
 ## Auteur
-
-[Ton Nom]
+Jean Keloua Ouamouno
